@@ -137,6 +137,5 @@ For any inquiries or support, please contact us at:
 
 - **Email**: novanosh29@gmail.com
 - **Website**: [Nova Nosh](https://nova-nosh.onrender.com/)
-- **GitHub**: [Nova Nosh](https://github.com/impriyanshu29/nova_nosh)
 
 
