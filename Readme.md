@@ -31,7 +31,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
     ```bash
-   https://github.com/impriyanshu29/nova_nosh.git
+   https://github.com/Ramneet04/nova-nosh-final.git
     cd nova-nosh
     ```
 
